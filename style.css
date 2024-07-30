@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ul {
+  padding: 10x;
+  background: black;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+header {
+  background: url("https://i.imgur.com/gj3scEW_d.jpg?maxwidth=520&shape=thumb&fidelity=high");
+  background-size: cover;
+  color: red;
+}
+a {
+  color: white;
+}
+h1 {
+  font-size: 40px;
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+}
